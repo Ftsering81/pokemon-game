@@ -1,4 +1,5 @@
 # Name: Fnu Tsering
+# CSCI 39538: Homework 1: Pokemon Spec
 
 class Grid:
     def __init__(self, num_rows, num_cols):

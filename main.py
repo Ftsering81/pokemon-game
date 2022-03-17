@@ -1,4 +1,5 @@
 # Name: Fnu Tsering
+# CSCI 39538: Homework 1: Pokemon Spec
 
 import time
 import random
